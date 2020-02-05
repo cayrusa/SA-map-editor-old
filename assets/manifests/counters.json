@@ -1,0 +1,15 @@
+{
+	"path":"assets/counters/",
+	"manifest": [
+		{"id":"CC-Embers(Back)", "src":"CC-Embers(Back).gif", "panelScale": 4, "mapScale" : 4},
+		{"id":"CC-Embers", "src":"CC-Embers.gif", "panelScale": 4, "mapScale" : 4},
+		{"id":"CC-Hacan(Back)", "src":"CC-Hacan(Back).gif", "panelScale": 4, "mapScale" : 4},
+		{"id":"CC-Hacan", "src":"CC-Hacan.gif", "panelScale": 4, "mapScale" : 4},
+		{"id":"CC-Yin(Back)", "src":"CC-Yin(Back).gif", "panelScale": 4, "mapScale" : 4},
+		{"id":"CC-Yin", "src":"CC-Yin.gif", "panelScale": 4, "mapScale" : 4},
+
+		{"id":"Flag-Embers", "src":"Flag-Embers.png", "panelScale": 5, "mapScale" : 5},
+		{"id":"Flag-Hacan", "src":"Flag-Hacan.png", "panelScale": 5, "mapScale" : 5},
+		{"id":"Flag-Yin", "src":"Flag-Yin.png", "panelScale": 5, "mapScale" : 5}
+	]
+}

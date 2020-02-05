@@ -81,6 +81,9 @@
                             <li>
 								<a id="units" href="#">Units</a>
 							</li>
+                            <li>
+								<a id="counters" href="#">Counters</a>
+							</li>
 						</ul>
 					</li>
 					<li>
