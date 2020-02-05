@@ -1,0 +1,118 @@
+{
+	"path":"assets/tiles/Base/",
+	"manifest": [
+		{"id":"Tile-Abyz-Fria", "src":"Tile-Abyz-Fria.gif", "planets": [
+			{"name":"Abyz"}
+			,{"name":"Fria"}
+		]},
+		{"id":"Tile-Arinam-Meer", "src":"Tile-Arinam-Meer.gif", "planets": [
+			{"name":"Arinam"}
+			,{"name":"Meer"}
+		]},
+		{"id":"Tile-Arnor-Lor", "src":"Tile-Arnor-Lor.gif", "planets": [
+			{"name":"Arnor"}
+			,{"name":"Lor"}
+		]},
+		{"id":"Tile-Asteroid_Field", "src":"Tile-Asteroid_Field.gif"},
+		{"id":"Tile-Bereg-Lirta_IV", "src":"Tile-Bereg-Lirta_IV.gif", "planets": [
+			{"name":"Bereg"}
+			,{"name":"Lirta_IV"}
+		]},
+		{"id":"Tile-Centauri-Gral", "src":"Tile-Centauri-Gral.gif", "planets": [
+			{"name":"Centauri"}
+			,{"name":"Gral"}
+		]},
+		{"id":"Tile-Coorneeq-Resculon", "src":"Tile-Coorneeq-Resculon.gif", "planets": [
+			{"name":"Coorneeq"}
+			,{"name":"Resculon"}
+		]},
+		{"id":"Tile-Dal_Bootha-Xxehan", "src":"Tile-Dal_Bootha-Xxehan.gif", "planets": [
+			{"name":"Dal_Bootha"}
+			,{"name":"Xxehan"}
+		]},
+		{"id":"Tile-Empty", "src":"Tile-Empty.gif"},
+		{"id":"Tile-HS_Back", "src":"Tile-HS_Back.gif"},
+		{"id":"Tile-HS_Hacan", "src":"Tile-HS_Hacan.gif", "planets": [
+			{"name":"HS_Hacan"}
+		]},
+		{"id":"Tile-HS_Jolnar", "src":"Tile-HS_Jolnar.gif", "planets": [
+			{"name":"HS_Jolnar"}
+		]},
+		{"id":"Tile-HS_L1z1x", "src":"Tile-HS_L1z1x.gif", "planets": [
+			{"name":"HS_L1z1x"}
+		]},
+		{"id":"Tile-HS_Letnev", "src":"Tile-HS_Letnev.gif", "planets": [
+			{"name":"HS_Letnev"}
+		]},
+		{"id":"Tile-HS_Mentak", "src":"Tile-HS_Mentak.gif", "planets": [
+			{"name":"HS_Mentak"}
+		]},
+		{"id":"Tile-HS_Naalu", "src":"Tile-HS_Naalu.gif", "planets": [
+			{"name":"HS_Naalu"}
+		]},
+		{"id":"Tile-HS_Norr", "src":"Tile-HS_Norr.gif", "planets": [
+			{"name":"HS_Norr"}
+		]},
+		{"id":"Tile-HS_Sol", "src":"Tile-HS_Sol.gif", "planets": [
+			{"name":"HS_Sol"}
+		]},
+		{"id":"Tile-HS_Xxcha", "src":"Tile-HS_Xxcha.gif", "planets": [
+			{"name":"HS_Xxcha"}
+		]},
+		{"id":"Tile-HS_Yssaril", "src":"Tile-HS_Yssaril.gif", "planets": [
+			{"name":"HS_Yssaril"}
+		]},
+		{"id":"Tile-Lazar-Sakulag", "src":"Tile-Lazar-Sakulag.gif", "planets": [
+			{"name":"Lazar"}
+			,{"name":"Sakulag"}
+		]},
+		{"id":"Tile-Lodor", "src":"Tile-Lodor.gif", "planets": [
+			{"name":"Lodor"}
+		]},
+		{"id":"Tile-Mecatol_Rex", "src":"Tile-Mecatol_Rex.gif", "planets": [
+			{"name":"Mecatol_Rex"}
+		]},
+		{"id":"Tile-Mehar_Xull", "src":"Tile-Mehar_Xull.gif", "planets": [
+			{"name":"Mehar_Xull"}
+		]},
+		{"id":"Tile-Mellon-Zohbat", "src":"Tile-Mellon-Zohbat.gif", "planets": [
+			{"name":"Mellon"}
+			,{"name":"Zohbat"}
+		]},
+		{"id":"Tile-Nebula", "src":"Tile-Nebula.gif"},
+		{"id":"Tile-New_Albion-Starpoint", "src":"Tile-New_Albion-Starpoint.gif", "planets": [
+			{"name":"New_Albion"}
+			,{"name":"Starpoint"}
+		]},
+		{"id":"Tile-Quann", "src":"Tile-Quann.gif", "planets": [
+			{"name":"Quann"}
+		]},
+		{"id":"Tile-Qucenn-Rarron", "src":"Tile-Qucenn-Rarron.gif", "planets": [
+			{"name":"Qucenn"}
+			,{"name":"Rarron"}
+		]},
+		{"id":"Tile-Saudor", "src":"Tile-Saudor.gif", "planets": [
+			{"name":"Saudor"}
+		]},
+		{"id":"Tile-Supernova", "src":"Tile-Supernova.gif"},
+		{"id":"Tile-System_Back", "src":"Tile-System_Back.gif"},
+		{"id":"Tile-Tarmann", "src":"Tile-Tarmann.gif", "planets": [
+			{"name":"Tarmann"}
+		]},
+		{"id":"Tile-Tequran-Torkan", "src":"Tile-Tequran-Torkan.gif", "planets": [
+			{"name":"Tequran"}
+			,{"name":"Torkan"}
+		]},
+		{"id":"Tile-Thibah", "src":"Tile-Thibah.gif", "planets": [
+			{"name":"Thibah"}
+		]},
+		{"id":"Tile-Vefut_II", "src":"Tile-Vefut_II.gif", "planets": [
+			{"name":"Vefut_II"}
+		]},
+		{"id":"Tile-Wellon", "src":"Tile-Wellon.gif", "planets": [
+			{"name":"Wellon"}
+		]},
+		{"id":"Tile-Wormhole_A", "src":"Tile-Wormhole_A.gif"},
+		{"id":"Tile-Wormhole_B", "src":"Tile-Wormhole_B.gif"}
+	]
+}

@@ -1,0 +1,73 @@
+{
+	"path":"assets/tokens/",
+	"manifest": [
+		{"id":"Token-AsteroidBelt-old", "src":"Token-AsteroidBelt.png"},
+
+		{"id":"Token-DistantSuns-Back", "src":"DS-Back.png"},
+
+		{"id":"Token-Artifact-Back", "src":"Token-Artifact-Back.png"},
+		{"id":"Token-Artifact-Red", "src":"Token-Artifact-Red.png"},
+		{"id":"Token-Artifact-Blue", "src":"Token-Artifact-Blue.png"},
+		{"id":"Token-Artifact-Green", "src":"Token-Artifact-Green.png"},
+		{"id":"Token-Artifact-Blank", "src":"Token-Artifact-Blank.png"},
+		{"id":"Token-Artifact-Yellow", "src":"Token-Artifact-Yellow.png"},
+
+		{"id":"Token-DistantSuns-Custodians-Ground", "src":"Custodians-Ground.png"},
+		{"id":"Token-DistantSuns-Custodians-Fighter", "src":"Custodians-Fighter.png"},
+
+		{"id":"Token-DistantSuns-Automated_Defense_System", "src":"DS-Automated.png"},
+		{"id":"Token-DistantSuns-Biohazard", "src":"DS-Biohazard.png"},
+		{"id":"Token-DistantSuns-Fighter_Ambush-1", "src":"DS-Fighter_1.png"},
+		{"id":"Token-DistantSuns-Fighter_Ambush-2", "src":"DS-Fighter_2.png"},
+		{"id":"Token-DistantSuns-Fighter_Ambush-3", "src":"DS-Fighter_3.png"},
+		{"id":"Token-DistantSuns-Hidden_Factory", "src":"DS-Factory.png"},
+		{"id":"Token-DistantSuns-Hostage_Situation", "src":"DS-Hostiles&Wealth.png"},
+		{"id":"Token-DistantSuns-Hostile_Locals-1", "src":"DS-Hostiles_1.png"},
+		{"id":"Token-DistantSuns-Hostile_Locals-1", "src":"DS-Hostiles_2.png"},
+		{"id":"Token-DistantSuns-Hostile_Locals-1", "src":"DS-Hostiles_3.png"},
+		{"id":"Token-DistantSuns-Industrial_Society", "src":"DS-Industrial.png"},
+		{"id":"Token-DistantSuns-Lazax_Survivors", "src":"DS-Lazax.png"},
+		{"id":"Token-DistantSuns-Native_Intelligence", "src":"DS-Intelligence.png"},
+		{"id":"Token-DistantSuns-Natural_Wealth-2", "src":"DS-Wealth_2.png"},
+		{"id":"Token-DistantSuns-Natural_Wealth-4", "src":"DS-Wealth_4.png"},
+
+
+	
+		{"id":"Token-DistantSuns-Peaceful_Annexation", "src":"DS-Peaceful.png"},
+	
+		{"id":"Token-DistantSuns-Radiation", "src":"DS-Radiation.png"},
+		{"id":"Token-DistantSuns-Settlers", "src":"DS-Settlers.png"},
+		{"id":"Token-DistantSuns-Technological_Society", "src":"DS-Technological.png"},
+
+		{"id":"Token-DistantSuns-Wormhole_Discovery-A", "src":"DS-Wormhole_A.png"},
+		{"id":"Token-DistantSuns-Wormhole_Discovery-B", "src":"DS-Wormhole_B.png"},
+		{"id":"Token-DistantSuns-Worldgate", "src":"DS-Worldgate.png"},
+
+		{"id":"Token-SpaceDomain-Back", "src":"FF-BACK.png"},
+		{"id":"Token-SpaceDomain-Abandoned_Transport", "src":"FF-Abandoned.png"},
+		{"id":"Token-SpaceDomain-Alien_Technology", "src":"FF-Alientech.png"},
+		{"id":"Token-SpaceDomain-Alpha_Wormhole_Discovery", "src":"FF-Wormhole_A.png"},
+		{"id":"Token-SpaceDomain-Beta_Wormhole_Discovery", "src":"FF-Wormhole_B.png"},
+
+		{"id":"Token-SpaceDomain-Derelict_Ship", "src":"FF-Shipgraveyard.png"},
+		{"id":"Token-SpaceDomain-Discovery", "src":"FF-Discovery.png"},
+		{"id":"Token-SpaceDomain-Gravity_Rift", "src":"FF-Gravity.png"},
+
+		{"id":"Token-SpaceDomain-Precursor_Space_Station", "src":"FF-Uncharted.png"},
+		{"id":"Token-SpaceDomain-Space_Pirates", "src":"FF-Pirates.png"},
+		{"id":"Token-SpaceDomain-Supernova", "src":"FF-Collision.png"},
+
+		{"id":"Token-Wormhole-A", "src":"Token-Wormhole_A.gif"},
+		{"id":"Token-Wormhole-Alpha", "src":"Token-Wormhole_Alpha.gif"},
+		{"id":"Token-Wormhole-B", "src":"Token-Wormhole_B.gif"},
+		{"id":"Token-Wormhole-Beta", "src":"Token-Wormhole_Beta.gif"},
+		{"id":"Token-Wormhole-C", "src":"Token-Wormhole_C.gif"},
+		{"id":"Token-Wormhole-Delta", "src":"Token-Wormhole_Delta.gif"},
+		{"id":"Token-Wormhole-Gamma", "src":"Token-Wormhole_Gamma.gif"},
+		{"id":"Token-Wormhole-L", "src":"Token-Wormhole_L.gif"},
+		{"id":"Token-Wormhole-Omega", "src":"Token-Wormhole_Omega.gif"},
+		{"id":"Token-Wormhole-Sigma", "src":"Token-Wormhole_Sigma.gif"},
+		{"id":"Token-Wormhole-Theta", "src":"Token-Wormhole_Theta.gif"},
+		{"id":"Token-Wormhole-Traelyn", "src":"Token-Wormhole_Traelyn.gif"}
+	]
+}
