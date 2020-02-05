@@ -1,0 +1,21 @@
+{
+	"path":"assets/units/",
+	"manifest": [
+		{"id":"Unit-Unit_Green_Carrier", "src":"Unit-Green-Carrier.png"},
+		{"id":"Unit-Green_Dreadnaught", "src":"Unit-Green-Dreadnaught.png"},
+		{"id":"Unit-Grey-Carrier", "src":"FF-Unit-Grey_Carrier.png"},
+		{"id":"Unit-Yellow_GF", "src":"Unit-Yellow-GF.png"},
+
+		{"id":"Unit-Pink-Carrier", "src":"Unit-Pink-Carrier.png"},
+		{"id":"Unit-Pink-Cruiser", "src":"Unit-Pink-Cruiser.png"},
+		{"id":"Unit-Pink-Destroyer", "src":"Unit-Pink-Destroyer.png"},
+		{"id":"Unit-Pink-Dreadnaught", "src":"Unit-Pink-Dreadnaught.png"},
+		{"id":"Unit-Pink-Fighter", "src":"Unit-Pink-Fighter.png"},
+		{"id":"Unit-Pink-Flagship", "src":"Unit-Pink-Flagship.png"},
+		{"id":"Unit-Pink_GF", "src":"Unit-Pink-GF.png"},
+		{"id":"Unit-Pink-MU", "src":"Unit-Pink-MU.png"},
+		{"id":"Unit-Pink-PDS", "src":"Unit-Pink-PDS.png"},
+		{"id":"Unit-Pink-Spacedock", "src":"Unit-Pink-Spacedock.png"},
+		{"id":"Unit-Pink-Warsun", "src":"Unit-Pink-Warsun.png"}
+	]
+}

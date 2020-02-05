@@ -28,7 +28,7 @@
 		<script src="lib/bitmapdata-1.1.1.min.js"></script>
 		<script src="lib/canvas-toBlob.js"></script>
 		<script src="lib/GameObjects-0.3.js"></script>
-		<script src="lib/TI3SA-0.1.min.js"></script>
+		<script src="lib/TI3SA-0.1.js"></script>
 	</head>
 	<body>
 		<canvas id="stage"></canvas>
@@ -77,6 +77,9 @@
 							</li>
 							<li>
 								<a id="tokens" href="#">Tokens</a>
+							</li>
+                            <li>
+								<a id="units" href="#">Units</a>
 							</li>
 						</ul>
 					</li>
