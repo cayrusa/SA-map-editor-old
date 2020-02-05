@@ -1,0 +1,44 @@
+{
+	"path":"assets/tiles/SotT/",
+	"manifest": [
+		{"id":"Tile-Cormund", "src":"Tile-Cormund.gif", "planets": [
+			{"name":"Cormund"}
+		]},
+		{"id":"Tile-Everra", "src":"Tile-Everra.gif", "planets": [
+			{"name":"Everra"}
+		]},
+		{"id":"Tile-Faunus", "src":"Tile-Faunus.gif", "planets": [
+			{"name":"Faunus"}
+		]},
+		{"id":"Tile-Gravity_rift", "src":"Tile-Gravity_rift.gif"},
+		{"id":"Tile-Hercalor-Tiamat", "src":"Tile-Hercalor-Tiamat.gif", "planets": [
+			{"name":"Hercalor"}
+			,{"name":"Tiamat"}
+		]},
+		{"id":"Tile-HS_Arborec", "src":"Tile-HS_Arborec.gif", "planets": [
+			{"name":"HS_Arborec"}
+		]},
+		{"id":"Tile-HS_Creuss", "src":"Tile-HS_Creuss.gif", "planets": [
+			{"name":"HS_Creuss"}
+		]},
+		{"id":"Tile-HS_Creuss_Gate", "src":"Tile-HS_Creuss_Gate.gif", "planets": [
+			{"name":"HS_Creuss_Gate"}
+		]},
+		{"id":"Tile-HS_Lazax", "src":"Tile-HS_Lazax.gif", "planets": [
+			{"name":"HS_Lazax"}
+		]},
+		{"id":"Tile-HS_Nekro", "src":"Tile-HS_Nekro.gif", "planets": [
+			{"name":"HS_Nekro"}
+		]},
+		{"id":"Tile-Industrex", "src":"Tile-Industrex.gif", "planets": [
+			{"name":"Industrex"}
+		]},
+		{"id":"Tile-Sem-Lore", "src":"Tile-Sem-Lore.gif", "planets": [
+			{"name":"Sem"}
+			,{"name":"Lore"}
+		]},
+		{"id":"Tile-Tempesta", "src":"Tile-Tempesta.gif", "planets": [
+			{"name":"Tempesta"}
+		]}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"path":"assets/manifests/",
+	"manifest": [
+		{"id":"Base", "src":"Base.json", "type":"manifest"},
+		{"id":"SE", "src":"SE.json"},
+		{"id":"SotT", "src":"SotT.json"},
+		{"id":"Tokens", "src":"Tokens.json"}
+	]
+}

@@ -1,0 +1,72 @@
+{
+	"path":"assets/tiles/SE/",
+	"manifest": [
+		{"id":"Tile-Ashtroth-Loki-Abaddon", "src":"Tile-Ashtroth-Loki-Abaddon.gif", "planets": [
+			{"name":"Ashtroth"}
+			,{"name":"Loki"}
+			,{"name":"Abaddon"}
+		]},
+		{"id":"Tile-Capha", "src":"Tile-Capha.gif", "planets": [
+			{"name":"Capha"}
+		]},
+		{"id":"Tile-Elnath", "src":"Tile-Elnath.gif", "planets": [
+			{"name":"Elnath"}
+		]},
+		{"id":"Tile-Garbozia", "src":"Tile-Garbozia.gif", "planets": [
+			{"name":"Garbozia"}
+		]},
+		{"id":"Tile-Hopes_End", "src":"Tile-Hopes_End.gif", "planets": [
+			{"name":"Hopes_End"}
+		]},
+		{"id":"Tile-HS_Muaat", "src":"Tile-HS_Muaat.gif", "planets": [
+			{"name":"HS_Muaat"}
+		]},
+		{"id":"Tile-HS_Saar", "src":"Tile-HS_Saar.gif", "planets": [
+			{"name":"HS_Saar"}
+		]},
+		{"id":"Tile-HS_Winnu", "src":"Tile-HS_Winnu.gif", "planets": [
+			{"name":"HS_Winnu"}
+		]},
+		{"id":"Tile-HS_Yin", "src":"Tile-HS_Yin.gif", "planets": [
+			{"name":"HS_Yin"}
+		]},
+		{"id":"Tile-Ion_Storm", "src":"Tile-Ion_Storm.gif"},
+		{"id":"Tile-Lesab", "src":"Tile-Lesab.gif", "planets": [
+			{"name":"Lesab"}
+		]},
+		{"id":"Tile-Lisis-Velnor", "src":"Tile-Lisis-Velnor.gif", "planets": [
+			{"name":"Lisis"}
+			,{"name":"Velnor"}
+		]},
+		{"id":"Tile-Mirage", "src":"Tile-Mirage.gif", "planets": [
+			{"name":"Mirage"}
+		]},
+		{"id":"Tile-Nexus", "src":"Tile-Nexus.gif", "planets": [
+			{"name":"Nexus"}
+		]},
+		{"id":"Tile-Perimeter", "src":"Tile-Perimeter.gif", "planets": [
+			{"name":"Perimeter"}
+		]},
+		{"id":"Tile-Primor", "src":"Tile-Primor.gif", "planets": [
+			{"name":"Primor"}
+		]},
+		{"id":"Tile-Rigel", "src":"Tile-Rigel.gif", "planets": [
+			{"name":"Rigel_I"}
+			,{"name":"Rigel_II"}
+			,{"name":"Rigel_III"}
+		]},
+		{"id":"Tile-Sumerian-Arcturus", "src":"Tile-Sumerian-Arcturus.gif", "planets": [
+			{"name":"Sumerian"}
+			,{"name":"Arcturus"}
+		]},
+		{"id":"Tile-Tsion-Bellatrix", "src":"Tile-Tsion-Bellatrix.gif", "planets": [
+			{"name":"Tsion"}
+			,{"name":"Bellatrix"}
+		]},
+		{"id":"Tile-Vega", "src":"Tile-Vega.gif", "planets": [
+			{"name":"Vega_Minor"}
+			,{"name":"Vega_Major"}
+		]},
+		{"id":"Tile-Wormhole_C", "src":"Tile-Wormhole_C.gif"}
+	]
+}
