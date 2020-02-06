@@ -84,6 +84,9 @@
                             <li>
 								<a id="counters" href="#">Counters</a>
 							</li>
+                            <li>
+								<a id="misc" href="#">Misc</a>
+							</li>
 						</ul>
 					</li>
 					<li>

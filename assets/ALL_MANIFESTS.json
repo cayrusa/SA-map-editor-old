@@ -4,6 +4,7 @@
 		{"id":"Redux", "src":"redux.json", "type":"manifest"},
 		{"id":"Tokens", "src":"Tokens.json", "type":"manifest"},
 		{"id":"Units", "src":"units.json", "type":"manifest"},
-		{"id":"Counters", "src":"counters.json", "type":"manifest"}
+		{"id":"Counters", "src":"counters.json", "type":"manifest"},
+		{"id":"Misc", "src":"misc.json", "type":"manifest"}
 	]
 }

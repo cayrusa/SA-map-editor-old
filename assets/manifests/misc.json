@@ -1,0 +1,8 @@
+{
+	"path":"assets/misc/",
+	"manifest": [
+		{"id":"Misc-Arborec-Adm", "src":"Misc-Arborec-Adm.png", "panelScale": 3, "mapScale" : 3},
+		{"id":"Misc-Logo-Arborec", "src":"Misc-Logo-Arborec.png", "panelScale": 1, "mapScale" : 1}
+
+	]
+}
