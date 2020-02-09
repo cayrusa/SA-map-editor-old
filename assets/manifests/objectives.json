@@ -1,0 +1,19 @@
+{
+	"path":"assets/Objectives/",
+	"manifest": [
+		{"id":"Objective-Preliminary", "src":"Misc-Preliminary-Objective.png", "panelScale": 1, "mapScale" : 2},
+		{"id":"Objective-Preliminary-Back", "src":"Misc-Preliminary-Objective-Back.png", "panelScale": 1, "mapScale" : 2},
+		{"id":"Objective-Public-I", "src":"Misc-Public-Objective-I.gif", "panelScale": 1, "mapScale" : 2},
+		{"id":"Objective-Public-I-Back", "src":"Misc-Public-Objective-I-Back.gif", "panelScale": 1, "mapScale" : 2},
+		{"id":"Objective-Public-II", "src":"Misc-Public-Objective-II.gif", "panelScale": 1, "mapScale" : 2},
+		{"id":"Objective-Public-II-Back", "src":"Misc-Public-Objective-II-Back.gif", "panelScale": 1, "mapScale" : 2},
+		{"id":"Objective-Secret", "src":"Misc-Secret-Objective.gif", "panelScale": 1, "mapScale" : 2},
+		{"id":"Objective-Secret-Back", "src":"Misc-Secret-Objective-Back.gif", "panelScale": 1, "mapScale" : 2},
+		{"id":"Objective-Special-BlueArtifact", "src":"Misc-SpecialObjective-BlueArtifact.gif", "panelScale": 1, "mapScale" : 2},
+		{"id":"Objective-Special-GreenArtifact", "src":"Misc-SpecialObjective-GreenArtifact.gif", "panelScale": 1, "mapScale" : 2},
+		{"id":"Objective-Special-Green-Back", "src":"Misc-SpecialObjective-Green-Back.gif", "panelScale": 1, "mapScale" : 2},
+		{"id":"Objective-Special-YellowArtifact", "src":"Misc-SpecialObjective-YellowArtifact.gif", "panelScale": 1, "mapScale" : 2},
+		{"id":"Objective-Special-RedArtifact", "src":"Misc-SpecialObjective-RedArtifact.gif", "panelScale": 1, "mapScale" : 2},
+		{"id":"Objective-Special-Voice", "src":"Misc-SpecialObjective-Voice.gif", "panelScale": 1, "mapScale" : 2}
+	]
+}

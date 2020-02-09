@@ -1,0 +1,7 @@
+{
+	"path":"assets/PoliticalCards/",
+	"manifest": [
+		{"id":"Misc-Card-Political", "src":"Misc-Political-Card.png", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-Card-Political-Back", "src":"Misc-Political-Card-Back.png", "panelScale": 1, "mapScale" : 2}
+	]
+}

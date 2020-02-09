@@ -1,0 +1,7 @@
+{
+	"path":"assets/ActionCards/",
+	"manifest": [
+		{"id":"Misc-Card-Action", "src":"Misc-Action-Card.png", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-Card-Action-Back", "src":"Misc-Action-Card-Back.png", "panelScale": 1, "mapScale" : 2}
+	]
+}

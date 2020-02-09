@@ -10,19 +10,6 @@
 			body {background:black;color:white;height:100%;width:100%;margin:0;}
 			input, textarea {-webkit-user-select:text;}
 		</style>
-		<!--
-		<script src="lib/tweenjs-0.6.0.min.js"></script>
-		<script src="lib/easeljs-0.8.0.min.js"></script>
-		<script src="lib/preloadjs-0.6.0.min.js"></script>
-		<script src="lib/jquery-2.1.0.min.js"></script>
-		<script src="lib/grid-0.1.js"></script>
-		<script src="lib/Main.js"></script>
-		<script src="lib/EyeCandy.js"></script>
-		<script src="lib/LoaderBar.js"></script>
-		<script src="lib/MapContainer.js"></script>
-		<script src="lib/PanelContainer-0.3.js"></script>
-		<script src="lib/Slider.js"></script>
-	-->
 		<script src="https://code.createjs.com/createjs-2015.11.26.min.js"></script>
 		<script src="http://code.jquery.com/jquery-2.2.0.min.js"></script>
 		<script src="lib/bitmapdata-1.1.1.min.js"></script>
@@ -66,6 +53,24 @@
 					<li id="tiles">
 						<a class="dropdown" href="#">Tiles</a>
 						<ul>
+                            <li>
+                                <a id="units" href="#">Units</a>
+                            </li>
+                            <li>
+                                <a id="cc" href="#">CC</a>
+                            </li>
+                            <li>
+                                <a id="flags" href="#">Flags</a>
+                            </li>
+                            <li>
+                                <a id="counters" href="#">Counters</a>
+                            </li>
+                            <li>
+                                <a id="misc" href="#">Misc</a>
+                            </li>
+                            <li>
+                                <a id="objectives" href="#">Objectives</a>
+                            </li>
 							<li>
 								<a id="planets" href="#">Planets</a>
 							</li>
@@ -77,15 +82,6 @@
 							</li>
 							<li>
 								<a id="tokens" href="#">Tokens</a>
-							</li>
-                            <li>
-								<a id="units" href="#">Units</a>
-							</li>
-                            <li>
-								<a id="counters" href="#">Counters</a>
-							</li>
-                            <li>
-								<a id="misc" href="#">Misc</a>
 							</li>
 						</ul>
 					</li>

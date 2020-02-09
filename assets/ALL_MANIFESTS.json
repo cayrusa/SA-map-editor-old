@@ -6,6 +6,9 @@
 		{"id":"Units", "src":"units.json", "type":"manifest"},
 		{"id":"CommandCounters", "src":"commandcounters.json", "type":"manifest"},
 		{"id":"Counters", "src":"counters.json", "type":"manifest"},
+		{"id":"Objectives", "src":"objectives.json", "type":"manifest"},
+		{"id":"PC", "src":"politicalcards.json", "type":"manifest"},
+		{"id":"AC", "src":"actioncards.json", "type":"manifest"},
 		{"id":"Flags", "src":"flags.json", "type":"manifest"},
 		{"id":"Misc", "src":"misc.json", "type":"manifest"}
 	]
