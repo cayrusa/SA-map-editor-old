@@ -2,7 +2,24 @@
 	"path":"assets/misc/",
 	"manifest": [
 		{"id":"Misc-Arborec-Adm", "src":"Misc-Arborec-Adm.png", "panelScale": 3, "mapScale" : 3},
-		{"id":"Misc-Logo-Arborec", "src":"Misc-Logo-Arborec.png", "panelScale": 1, "mapScale" : 1}
 
+
+		{"id":"Misc-LgRnd-Muaat", "src":"Flag-LgRnd-Muaat.png", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-LgRnd-Hacan", "src":"Flag-LgRnd-Hacan.png", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-LgRnd-Yin", "src":"Flag-LgRnd-Yin.png", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-LgRnd-Yssaril", "src":"Flag-LgRnd-Yssaril.png", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-LgRnd-Jolnar", "src":"Flag-LgRnd-Jolnar.png", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-LgRnd-Letnev", "src":"Flag-LgRnd-Letnev.png", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-LgRnd-L1z1x", "src":"Flag-LgRnd-L1z1x.png", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-LgRnd-Mentak", "src":"Flag-LgRnd-Mentak.png", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-LgRnd-Norr", "src":"Flag-LgRnd-Norr.png", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-LgRnd-Saar", "src":"Flag-LgRnd-Saar.png", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-LgRnd-Sol", "src":"Flag-LgRnd-Sol.png", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-LgRnd-Arborec", "src":"Flag-LgRnd-Arborec.png", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-LgRnd-Creuss", "src":"Flag-LgRnd-Creuss.png", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-LgRnd-Lazax", "src":"Flag-LgRnd-Lazax.png", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-LgRnd-Nekro", "src":"Flag-LgRnd-Nekro.png", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-LgRnd-Winnu", "src":"Flag-LgRnd-Winnu.png", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-LgRnd-Xxcha", "src":"Flag-LgRnd-Xxcha.png", "panelScale": 1, "mapScale" : 2}
 	]
 }
