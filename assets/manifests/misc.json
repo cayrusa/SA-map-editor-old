@@ -1,7 +1,32 @@
 {
 	"path":"assets/misc/",
 	"manifest": [
-		{"id":"Misc-Arborec-Adm", "src":"Misc-Arborec-Adm.png", "panelScale": 3, "mapScale" : 3},
+		{"id":"Misc-Card-Action", "src":"Misc-Action-Card.png", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-Card-Action-Back", "src":"Misc-Action-Card-Back.png", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-Bonus-Counter", "src":"Misc-Bonus-Counter.gif", "panelScale": 2, "mapScale" : 3},
+		{"id":"Misc-Card-Political", "src":"Misc-Political-Card.png", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-Card-Political-Back", "src":"Misc-Political-Card-Back.png", "panelScale": 1, "mapScale" : 2},
+
+		{"id":"Misc-Objective-Preliminary", "src":"Misc-Preliminary-Objective.png", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-Objective-Preliminary-Back", "src":"Misc-Preliminary-Objective-Back.png", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-Objective-Public-I", "src":"Misc-Public-Objective-I.gif", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-Objective-Public-I-Back", "src":"Misc-Public-Objective-I-Back.gif", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-Objective-Public-II", "src":"Misc-Public-Objective-II.gif", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-Objective-Public-II-Back", "src":"Misc-Public-Objective-II-Back.gif", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-Objective-Secret", "src":"Misc-Secret-Objective.gif", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-Objective-Secret-Back", "src":"Misc-Secret-Objective-Back.gif", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-Objective-Special-BlueArtifact", "src":"Misc-SpecialObjective-BlueArtifact.gif", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-Objective-Special-GreenArtifact", "src":"Misc-SpecialObjective-GreenArtifact.gif", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-Objective-Special-Green-Back", "src":"Misc-SpecialObjective-Green-Back.gif", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-Objective-Special-YellowArtifact", "src":"Misc-SpecialObjective-YellowArtifact.gif", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-Objective-Special-RedArtifact", "src":"Misc-SpecialObjective-RedArtifact.gif", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-Objective-Special-Voice", "src":"Misc-SpecialObjective-Voice.gif", "panelScale": 1, "mapScale" : 2},
+		{"id":"Misc-Status-Blue", "src":"Misc-Status-Blue.png", "panelScale": 3, "mapScale" : 3},
+		{"id":"Misc-Status-Green", "src":"Misc-Status-Green.png", "panelScale": 3, "mapScale" : 3},
+		{"id":"Misc-Status-Yellow", "src":"Misc-Status-Yellow.png", "panelScale": 3, "mapScale" : 3},
+		{"id":"Misc-Status-Orange", "src":"Misc-Status-Orange.png", "panelScale": 3, "mapScale" : 3},
+		{"id":"Misc-Status-Red", "src":"Misc-Status-Red.png", "panelScale": 3, "mapScale" : 3},
+		{"id":"Misc-Speaker-Token", "src":"Misc-Speaker-Token.gif", "panelScale": 1, "mapScale" : 1},
 
 
 		{"id":"Misc-LgRnd-Muaat", "src":"Flag-LgRnd-Muaat.png", "panelScale": 1, "mapScale" : 2},

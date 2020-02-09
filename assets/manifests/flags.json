@@ -1,0 +1,38 @@
+{
+	"path":"assets/flags/",
+	"manifest": [
+		{"id":"Flag-Muaat", "src":"Flag-Muaat.png", "panelScale": 5, "mapScale" : 5},
+		{"id":"Flag-Hacan", "src":"Flag-Hacan.png", "panelScale": 5, "mapScale" : 5},
+		{"id":"Flag-Yin", "src":"Flag-Yin.png", "panelScale": 5, "mapScale" : 5},
+		{"id":"Flag-Yssaril", "src":"Flag-Yssaril.png", "panelScale": 5, "mapScale" : 5},
+		{"id":"Flag-Jolnar", "src":"Flag-Jolnar.png", "panelScale": 5, "mapScale" : 5},
+		{"id":"Flag-Letnev", "src":"Flag-Letnev.png", "panelScale": 5, "mapScale" : 5},
+		{"id":"Flag-L1z1x", "src":"Flag-L1z1x.png", "panelScale": 5, "mapScale" : 5},
+		{"id":"Flag-Mentak", "src":"Flag-Mentak.png", "panelScale": 5, "mapScale" : 5},
+		{"id":"Flag-Norr", "src":"Flag-Norr.png", "panelScale": 5, "mapScale" : 5},
+		{"id":"Flag-Saar", "src":"Flag-Saar.png", "panelScale": 5, "mapScale" : 5},
+		{"id":"Flag-Sol", "src":"Flag-Sol.png", "panelScale": 5, "mapScale" : 5},
+		{"id":"Flag-Arborec", "src":"Flag-Arborec.png", "panelScale": 5, "mapScale" : 5},
+		{"id":"Flag-Creuss", "src":"Flag-Creuss.png", "panelScale": 5, "mapScale" : 5},
+		{"id":"Flag-Nekro", "src":"Flag-Nekro.png", "panelScale": 5, "mapScale" : 5},
+		{"id":"Flag-Winnu", "src":"Flag-Winnu.png", "panelScale": 5, "mapScale" : 5},
+		{"id":"Flag-Xxcha", "src":"Flag-Xxcha.png", "panelScale": 5, "mapScale" : 5},
+
+		{"id":"Flag-LgRnd-Muaat", "src":"Flag-LgRnd-Muaat.png", "panelScale": 5, "mapScale" : 7},
+		{"id":"Flag-LgRnd-Hacan", "src":"Flag-LgRnd-Hacan.png", "panelScale": 5, "mapScale" : 7},
+		{"id":"Flag-LgRnd-Yin", "src":"Flag-LgRnd-Yin.png", "panelScale": 5, "mapScale" : 7},
+		{"id":"Flag-LgRnd-Yssaril", "src":"Flag-LgRnd-Yssaril.png", "panelScale": 5, "mapScale" : 7},
+		{"id":"Flag-LgRnd-Jolnar", "src":"Flag-LgRnd-Jolnar.png", "panelScale": 5, "mapScale" : 7},
+		{"id":"Flag-LgRnd-Letnev", "src":"Flag-LgRnd-Letnev.png", "panelScale": 5, "mapScale" : 7},
+		{"id":"Flag-LgRnd-L1z1x", "src":"Flag-LgRnd-L1z1x.png", "panelScale": 5, "mapScale" : 7},
+		{"id":"Flag-LgRnd-Mentak", "src":"Flag-LgRnd-Mentak.png", "panelScale": 5, "mapScale" : 7},
+		{"id":"Flag-LgRnd-Norr", "src":"Flag-LgRnd-Norr.png", "panelScale": 5, "mapScale" : 7},
+		{"id":"Flag-LgRnd-Saar", "src":"Flag-LgRnd-Saar.png", "panelScale": 5, "mapScale" : 7},
+		{"id":"Flag-LgRnd-Sol", "src":"Flag-LgRnd-Sol.png", "panelScale": 5, "mapScale" : 7},
+		{"id":"Flag-LgRnd-Arborec", "src":"Flag-LgRnd-Arborec.png", "panelScale": 5, "mapScale" : 7},
+		{"id":"Flag-LgRnd-Creuss", "src":"Flag-LgRnd-Creuss.png", "panelScale": 5, "mapScale" : 7},
+		{"id":"Flag-LgRnd-Nekro", "src":"Flag-LgRnd-Nekro.png", "panelScale": 5, "mapScale" : 7},
+		{"id":"Flag-LgRnd-Winnu", "src":"Flag-LgRnd-Winnu.png", "panelScale": 5, "mapScale" : 7},
+		{"id":"Flag-LgRnd-Xxcha", "src":"Flag-LgRnd-Xxcha.png", "panelScale": 5, "mapScale" : 7}
+	]
+}
