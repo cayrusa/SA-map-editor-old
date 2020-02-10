@@ -69,6 +69,9 @@
                                 <a id="misc" href="#">Misc</a>
                             </li>
                             <li>
+                                <a id="leaders" href="#">Leaders</a>
+                            </li>
+                            <li>
                                 <a id="objectives" href="#">Objectives</a>
                             </li>
 							<li>
