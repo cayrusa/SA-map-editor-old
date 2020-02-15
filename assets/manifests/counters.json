@@ -2,6 +2,7 @@
 	"path":"assets/counters/",
 	"manifest": [
 		{"id":"Counter-HighAlertToken", "src":"HighAlertToken.png", "panelScale": 5, "mapScale" : 7},
-		{"id":"Counter-TradeGood", "src":"TradeGood.gif", "panelScale": 5, "mapScale" : 7}
+		{"id":"Counter-TradeGood", "src":"TradeGood.gif", "panelScale": 5, "mapScale" : 7},
+		{"id":"Counter-SpaceMines", "src":"SpaceMines.png", "panelScale": 5, "mapScale" : 7}
 	]
 }
