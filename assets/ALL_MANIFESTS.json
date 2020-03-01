@@ -11,6 +11,7 @@
 		{"id":"PC", "src":"politicalcards.json", "type":"manifest"},
 		{"id":"AC", "src":"actioncards.json", "type":"manifest"},
 		{"id":"Flags", "src":"flags.json", "type":"manifest"},
-		{"id":"Misc", "src":"misc.json", "type":"manifest"}
+		{"id":"Misc", "src":"misc.json", "type":"manifest"},
+		{"id":"SC", "src":"sc.json", "type":"manifest"}
 	]
 }

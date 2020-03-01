@@ -1,0 +1,24 @@
+{
+	"path":"assets/StrategyCards/",
+	"manifest": [
+
+		{"id":"Misc-SC1", "src":"1_Leadership_Front.png", "panelScale": 0.5, "mapScale" : 0.9},
+		{"id":"Misc-SC1b", "src":"1_Leadership_Back.png", "panelScale": 0.5, "mapScale" : 0.9},
+		{"id":"Misc-SC2", "src":"2_Diplomacy_Front.png", "panelScale": 0.5, "mapScale" : 0.9},
+		{"id":"Misc-SC2b", "src":"2_Diplomacy_Back.png", "panelScale": 0.5, "mapScale" : 0.9},
+		{"id":"Misc-SC3", "src":"3_Assembly_Front.png", "panelScale": 0.5, "mapScale" : 0.9},
+		{"id":"Misc-SC3b", "src":"3_Assembly_Back.png", "panelScale": 0.5, "mapScale" : 0.9},
+		{"id":"Misc-SC4", "src":"4_Production_Front.png", "panelScale": 0.5, "mapScale" : 0.9},
+		{"id":"Misc-SC4b", "src":"4_Production_Back.png", "panelScale": 0.5, "mapScale" : 0.9},
+		{"id":"Misc-SC5", "src":"5_Trade_Front.png", "panelScale": 0.5, "mapScale" : 0.9},
+		{"id":"Misc-SC5b", "src":"5_Trade_Back.png", "panelScale": 0.5, "mapScale" : 0.9},
+		{"id":"Misc-SC6", "src":"6_Warfare_Front.png", "panelScale": 0.5, "mapScale" : 0.9},
+		{"id":"Misc-SC6b", "src":"6_Warfare_Back.png", "panelScale": 0.5, "mapScale" : 0.9},
+		{"id":"Misc-SC7", "src":"7_Technology_Front.png", "panelScale": 0.5, "mapScale" : 0.9},
+		{"id":"Misc-SC7b", "src":"7_Technology_Back.png", "panelScale": 0.5, "mapScale" : 0.9},
+		{"id":"Misc-SC8", "src":"8_Bureaucracy_Front.png", "panelScale": 0.5, "mapScale" : 0.9},
+		{"id":"Misc-SC8b", "src":"8_Bureaucracy_Back.png", "panelScale": 0.5, "mapScale" : 0.9},
+		{"id":"Misc-SC9", "src":"9_Prospect_Front.png", "panelScale": 0.5, "mapScale" : 0.9},
+		{"id":"Misc-SC9b", "src":"9_Prospect_Back.png", "panelScale": 0.5, "mapScale" : 0.9}
+	]
+}
