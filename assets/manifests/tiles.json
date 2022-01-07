@@ -1,7 +1,7 @@
 {
 	"path":"assets/tiles/Redux/",
 	"manifest": [
-		{"id":"Tile-Abyz-Fria", "src":"AbyzFria.png", "planets": [
+		{"id":"Tile-Abyz-Fria", "src":"AbyzFria.png", "edition": "TI3", "planets": [
 			{"name":"Abyz"}
 			,{"name":"Fria"}
 		]},
